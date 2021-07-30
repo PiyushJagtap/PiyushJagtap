@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Piyush Jagtap
+-🏫 I'm MSc I.T. Post Graduate from Pillai's College, Panvel. <br/>
+-👀 I'm interested in Programming,💖Android App Development is my favorite. <br/>
+-📫 How to reach me: jagtappiyush13@gmail.com.
 <!--
 **PiyushJagtap/PiyushJagtap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
